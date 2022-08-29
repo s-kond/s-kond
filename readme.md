@@ -11,7 +11,7 @@
 
 ## ❤️‍🔥 I like ❤️‍🔥
 - pizza, pasta and fries
-- football 
+- soccer 
 - anything history-related
 - ancient greek and latin grammar (kidding)
 
