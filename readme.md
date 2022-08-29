@@ -1,7 +1,7 @@
 # Hi, I'm Stefan  :wave:
 
 ## 💻 I am currently ...
-- learning Web Development with <a href="https://www.neuefische.de/">neue Fische </a>  🐧
+- learning Web Development with [neue Fische](https://www.neuefische.de/)  🐧
 
 ## 💬 My Languages
 - HTML
