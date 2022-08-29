@@ -1,6 +1,13 @@
-# Welcome :wave:
+# Welcome!  :wave:
+---
+## 💬 Ask me about
+- anything history-related
+- latin and ancient greek grammar
+- ...
 
-## Languages
+---
+## My Languages
 - HTML
 - CSS
 - JavaScript
+- Latin 
