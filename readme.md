@@ -1,7 +1,7 @@
 # Welcome!  :wave:
 
-## 💻 Current project
-- learning Web Development with <a href="https://www.neuefische.de/">neue Fische </a> 🐧
+## 💻 I am currently ...
+- learning Web Development with <a href="https://www.neuefische.de/">neue Fische </a>  🐧
 
 ## 💬 My Languages
 - HTML
@@ -9,7 +9,9 @@
 - JavaScript
 - German, English, Dutch, Italian, (ancient) Greek & Latin  
 
-## 🧠 Ask me about
-- something history-related
-- ancient greek and latin grammar
-- or anything else 😄
+## ❤️‍🔥 I like ❤️‍🔥
+- pizza, pasta and fries
+- football 
+- anything history-related
+- ancient greek and latin grammar (kidding)
+
