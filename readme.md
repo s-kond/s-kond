@@ -8,7 +8,7 @@
 - CSS
 - JavaScript
 
-## Coming next
+## 🧠 Coming next
 - React
 - MongoDB
 
