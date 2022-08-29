@@ -15,5 +15,5 @@
 - anything history-related
 - ancient greek and latin grammar (kidding)
 
-## Leave with a smile:
+## Feel free to leave with a smile:
 ![penguins](https://media.giphy.com/media/jxETRYAi2KReel7pqy/giphy.gif)
