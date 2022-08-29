@@ -1,4 +1,4 @@
-# Welcome!  :wave:
+# Hi, I'm Stefan  :wave:
 
 ## 💻 I am currently ...
 - learning Web Development with <a href="https://www.neuefische.de/">neue Fische </a>  🐧
