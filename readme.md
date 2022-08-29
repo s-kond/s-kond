@@ -7,9 +7,9 @@
 - HTML
 - CSS
 - JavaScript
-- Latin 
+- German, English, Dutch, Italian, (ancient) Greek & Latin  
 
 ## 🧠 Ask me about
-- anything history-related
+- something history-related
 - ancient greek and latin grammar
 - or anything else 😄
