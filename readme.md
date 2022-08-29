@@ -1,4 +1,4 @@
-# Welcome
+# Welcome :wave:
 
 ## Languages
 - HTML
