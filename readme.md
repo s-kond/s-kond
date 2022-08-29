@@ -1,6 +1,6 @@
 # Hi, I'm Stefan  :wave:
 
-I am a teacher for history, latin, english and computer science, based in Münster, Germany, and I am looking for a career change. 
+I am a teacher for History, Latin, English and Computer Science, based in Münster 🇩🇪, looking for a career change. 
 
 ## 💻 I am currently ...
 - learning Web Development with [neue Fische](https://www.neuefische.de/)  🐧
