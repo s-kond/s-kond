@@ -9,9 +9,11 @@ I am a teacher for History, Latin, English and Computer Science, based in Münst
 - HTML5
 - CSS3
 - JavaScript
+- React
 
 ## 🧠 Coming soon
-- React
+- node.js
+- Express.js
 - MongoDB
 
 ## 📈 Plans
