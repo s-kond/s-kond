@@ -13,7 +13,7 @@ I am a teacher for History, Latin, English and Computer Science, based in Münst
 
 ## 🧠 Coming soon
 - node.js
-- Express.js
+- next.js
 - MongoDB
 
 ## 📈 Plans
