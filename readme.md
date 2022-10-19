@@ -2,8 +2,6 @@
 
 I am a teacher for History, Latin, English and Computer Science, based in Münster 🇩🇪, looking for a career change. 
 
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kond)](https://github.com/s-kond/github-readme-stats)
-
 ## 💻 I am currently ...
 - learning Web Development with [neue Fische](https://www.neuefische.de/)  🐧
 
@@ -27,3 +25,6 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/stefan-kondring-04b27b246/)
 - [Color Saver App](https://color-saver-sandy.vercel.app) (React)
 - [Improved Quiz App](https://quiz-app-ultra-git-main-s-kond.vercel.app) (React)
 - [Rick and Morty App](https://rick-and-morty-app-omega-orcin.vercel.app) (JavaScript, API-Interaction)
+
+## Stats
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kond)](https://github.com/s-kond/github-readme-stats)
