@@ -27,4 +27,4 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/stefan-kondring-04b27b246/)
 - [Rick and Morty App](https://rick-and-morty-app-omega-orcin.vercel.app) (JavaScript, API-Interaction)
 
 ## Stats
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kond&theme=synthwave)](https://github.com/s-kond/github-readme-stats)
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kond&theme=gruvbox)](https://github.com/s-kond/github-readme-stats)
