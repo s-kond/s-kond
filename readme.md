@@ -2,6 +2,8 @@
 
 I am a teacher for History, Latin, English and Computer Science, based in Münster 🇩🇪, looking for a career change. 
 
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kond)](https://github.com/s-kond/github-readme-stats)
+
 ## 💻 I am currently ...
 - learning Web Development with [neue Fische](https://www.neuefische.de/)  🐧
 
@@ -15,10 +17,6 @@ I am a teacher for History, Latin, English and Computer Science, based in Münst
 
 ## 🧠 Coming soon
 - capstone project!
-
-## Stats
-
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kond)](https://github.com/s-kond/github-readme-stats)
 
 ## 📈 Plans
 After the web-dev-bootcamp (november 2022) I'll be looking for a position as a Junior Front-End-/Web-Developer. I'd be more than happy to continue learning and working in a team with experienced developers. 
