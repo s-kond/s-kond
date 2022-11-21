@@ -14,7 +14,7 @@ I am a teacher for History, Latin, English and Computer Science, based in Münst
 - MongoDB
 
 ## 🧠 Coming soon
-- capstone project!
+- [capstone project](https://github.com/s-kond/capstone-cook4all)
 
 ## 📈 Plans
 After the web-dev-bootcamp (november 2022) I'll be looking for a position as a Junior Front-End-/Web-Developer. I'd be more than happy to continue learning and working in a team with experienced developers. 
