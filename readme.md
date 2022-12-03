@@ -5,6 +5,9 @@ I am a former teacher for History, Latin, English and Computer Science, based in
 ## 💻 During the last months ...
 - I attended the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/)  🐧
 
+## Starting in January 2023
+- I'll work as Junior Softwaredeveloper for Check24 Münster - I'm really happy and looking forward to the new challenge! 
+
 ## 💬 Experience with ...
 - HTML5
 - CSS3
@@ -23,7 +26,7 @@ I am a former teacher for History, Latin, English and Computer Science, based in
 
 ## Contact
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/stefan-kondring-04b27b246/) and [Xing](https://www.xing.com/profile/Stefan_Kondring/cv) - feel free to contact me!
+You can find me on [LinkedIn](https://www.linkedin.com/in/stefan-kondring-04b27b246/) and [Xing](https://www.xing.com/profile/Stefan_Kondring/cv).
 
 ## Stats
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kond&theme=tokyonight)](https://github.com/s-kond/github-readme-stats)
