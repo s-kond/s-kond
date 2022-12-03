@@ -2,8 +2,8 @@
 
 I am a former teacher for History, Latin, English and Computer Science, based in Münster 🇩🇪, on my way to become a software developer. 
 
-## 💻 I am currently ...
-- learning Web Development with [neue Fische](https://www.neuefische.de/)  🐧
+## 💻 During the last months ...
+- I attended the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/)  🐧
 
 ## 💬 Experience with ...
 - HTML5
