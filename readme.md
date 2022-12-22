@@ -12,6 +12,7 @@ I am a former teacher for History, Latin, English and Computer Science, based in
 - HTML5
 - CSS3
 - JavaScript
+- Typescript
 - React
 - Next.js
 - MongoDB
