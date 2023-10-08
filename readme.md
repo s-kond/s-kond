@@ -2,11 +2,11 @@
 
 I am a former teacher for History, Latin, English and Computer Science, based in Münster 🇩🇪, now working as a software developer. 
 
-## In 2022 ...
-- I attended the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/)  🐧
-
 ## 💻 Since January 2023
 - I'm working as a Junior Softwaredeveloper for Check24 Münster - I'm really happy about this new challenge! 
+
+## In 2022 ...
+- I attended the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/)  🐧
 
 ## 💬 Experience with ...
 - HTML5
@@ -14,6 +14,7 @@ I am a former teacher for History, Latin, English and Computer Science, based in
 - JavaScript
 - Typescript
 - React
+- PHP
 - Next.js
 - MongoDB
 - Express
