@@ -19,7 +19,7 @@ I am a former teacher for History, Latin, English and Computer Science, based in
 - MongoDB
 - Express
 
-## 🧠 Projects
+## 🧠 Bootcamp-Projects
 - [capstone project](https://github.com/s-kond/capstone-cook4all) (React, Express, MongoDB, Edamam API)
 - [Shopping List](https://shoppinglist-kappa.vercel.app/) (React)
 - [Color Saver App](https://color-saver-sandy.vercel.app) (React)
