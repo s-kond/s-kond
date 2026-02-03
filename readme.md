@@ -2,7 +2,10 @@
 
 I am a former teacher for History, Latin, English and Computer Science, based in Münster 🇩🇪, now working as a software developer. 
 
-## 💻 Since January 2023
+## 🚀 January 2026
+- Promoted to Professional 
+
+## 💻 January 2023 - 
 - I'm working as a Junior Softwaredeveloper for Check24 Münster - I'm really happy about this new challenge! 
 
 ## In 2022 ...
